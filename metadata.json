@@ -1,0 +1,6 @@
+{
+  "name": "Speed Typer Game",
+  "description": "A React-based speed typing game to test how many words you can type correctly in a minute.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
